@@ -5,7 +5,9 @@ single agent loop.  It observes the conversation list rather than parsing
 stdout, and runs LLM-backed work in Textual background workers.
 """
 
-'''THIS UI WAS CREATED FOR THIS CODING HARNESS, BY THE CODING HARNESS.'''
+##########################################################################
+### THIS UI WAS CREATED FOR THIS CODING HARNESS, BY THE CODING HARNESS.###
+##########################################################################
 
 from __future__ import annotations
 
